@@ -9,7 +9,7 @@ contents: >-
 
   info:
     version: "1.0"
-    title: httpbin
+    title: httpbin TEST
     description: >
       An unofficial OpenAPI definition for [httpbin.org](httpbin.org).
       Not all operations are listed here.
